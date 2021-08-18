@@ -1,0 +1,28 @@
+.margin{
+    width: 61%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#form{
+    width: 60%;
+    margin: auto;
+}
+.black{
+    background: #212529;
+
+    color: white;
+
+}
+.fontblack{
+    color: black;
+}
+.fontwhite{
+    color: white}
+.margin1{
+    margin-top: 11%;
+}
+.margin2{
+    margin-top: 6%;
+}
